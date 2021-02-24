@@ -1,4 +1,4 @@
-
+//线程的创建和执行流程；
 #include <stdio.h>
 #include <pthread.h>
 #include <unistd.h>
